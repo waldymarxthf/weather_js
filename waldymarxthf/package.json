@@ -2,7 +2,7 @@
 	"name": "waldymarxthf",
 	"version": "1.0.1",
 	"description": "",
-	"main": "index.js",
+	"main": "script.js",
 	"source": "src/index.html",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
