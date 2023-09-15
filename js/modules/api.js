@@ -2,7 +2,7 @@ import { saveToLocalStorage } from "./localstorage.js";
 import { hideLoader, showLoader } from "./preloader.js";
 import { errorHandler } from "./utils.js";
 
-const serverUrl = "http://api.openweathermap.org/data/2.5";
+const serverUrl = "https://api.openweathermap.org/data/2.5";
 const apiKey = "afc9f2df39f9e9e49eeb1afac7034d35";
 
 export async function getData(endpoint, location) {
